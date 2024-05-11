@@ -6,10 +6,12 @@
     "license": "MIT",
     "require": {
         "php": "^8.0.2",
+        "dg/rss-php": "^1.5",
         "guzzlehttp/guzzle": "^7.2",
         "laravel/framework": "^9.19",
         "laravel/sanctum": "^3.0",
         "laravel/tinker": "^2.7",
+        "phpmycoder/rss-php": "^1.2",
         "simplepie/simplepie": "^1.8"
     },
     "require-dev": {
